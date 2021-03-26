@@ -1,5 +1,3 @@
 # Eato
-To create a zomato like website using MERN stack.
-For Front-end part languages used are - HTML, CSS, BOOTSTRAP with RWD, javascript
-For Back-end part languages used are - Node.js , React.js, Express.js
-Database used - MongoDB
+I'm working to build a website Eato which is like Zomato using the MERN stack.
+The Languages we are using for Front-end are HTML, CSS, JAVASCRIPT. Back-end will be developed using- Node.js, React.js and for the Database, we will be using MongoDB
